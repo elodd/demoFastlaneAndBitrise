@@ -1,0 +1,19 @@
+# For more information about this configuration visit
+# https://github.com/fastlane/fastlane/tree/master/gym#gymfile
+
+# In general, you can use the options available
+# gym --help
+
+# Remove the # in front of the line to enable the option
+
+# scheme "Example"
+scheme "demoFastlaneAndBitrise"
+scheme "demoFastlaneAndBitriseTests"
+scheme "demoFastlaneAndBitriseUITests"
+scheme "Pods-demoFastlaneAndBitrise"
+scheme "Pods-demoFastlaneAndBitriseTests"
+scheme "Pods-demoFastlaneAndBitriseUITests"
+
+# sdk "iphoneos9.0"
+
+output_directory "./"
