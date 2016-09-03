@@ -6,14 +6,8 @@
 
 # Remove the # in front of the line to enable the option
 
-# scheme "Example"
 scheme "demoFastlaneAndBitrise"
-scheme "demoFastlaneAndBitriseTests"
-scheme "demoFastlaneAndBitriseUITests"
-scheme "Pods-demoFastlaneAndBitrise"
-scheme "Pods-demoFastlaneAndBitriseTests"
-scheme "Pods-demoFastlaneAndBitriseUITests"
 
-# sdk "iphoneos9.0"
+sdk "iphoneos9.0"
 
 output_directory "./"
