@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		21FA88B6987E99E0190CEA45 /* Pods_demoFastlaneAndBitriseTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 54218F941864F046CF9E7AB1 /* Pods_demoFastlaneAndBitriseTests.framework */; };
 		5C498B2F1D7B2E62006BD088 /* SnapshotHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C498B2E1D7B2E62006BD088 /* SnapshotHelper.swift */; };
 		5CD9D9091D7B244F00669FC5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CD9D9081D7B244F00669FC5 /* AppDelegate.swift */; };
 		5CD9D90E1D7B244F00669FC5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5CD9D90C1D7B244F00669FC5 /* Main.storyboard */; };
@@ -18,7 +17,6 @@
 		5CD9D9381D7B25E100669FC5 /* ViewControllerA.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CD9D9361D7B25E100669FC5 /* ViewControllerA.swift */; };
 		5CD9D9391D7B25E100669FC5 /* ViewControllerB.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CD9D9371D7B25E100669FC5 /* ViewControllerB.swift */; };
 		63923EA54A58E2B5A72B4F60 /* Pods_demoFastlaneAndBitrise.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A428FFD48B3E8AF7E60C992D /* Pods_demoFastlaneAndBitrise.framework */; };
-		DA3206B74B5728785715DC0B /* Pods_demoFastlaneAndBitriseUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4FE73EAF84B6B2EBA7E828E /* Pods_demoFastlaneAndBitriseUITests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,8 +37,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0727DB9287CC318DF0B6574B /* Pods-demoFastlaneAndBitriseTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-demoFastlaneAndBitriseTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-demoFastlaneAndBitriseTests/Pods-demoFastlaneAndBitriseTests.release.xcconfig"; sourceTree = "<group>"; };
-		1096C1328B309F481F002BFC /* Pods-demoFastlaneAndBitriseUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-demoFastlaneAndBitriseUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-demoFastlaneAndBitriseUITests/Pods-demoFastlaneAndBitriseUITests.release.xcconfig"; sourceTree = "<group>"; };
 		2E4CF4467ACF021BC9C34765 /* Pods-demoFastlaneAndBitrise.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-demoFastlaneAndBitrise.debug.xcconfig"; path = "Pods/Target Support Files/Pods-demoFastlaneAndBitrise/Pods-demoFastlaneAndBitrise.debug.xcconfig"; sourceTree = "<group>"; };
 		356EFDC660684C8514AF88AA /* Pods-demoFastlaneAndBitrise.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-demoFastlaneAndBitrise.release.xcconfig"; path = "Pods/Target Support Files/Pods-demoFastlaneAndBitrise/Pods-demoFastlaneAndBitrise.release.xcconfig"; sourceTree = "<group>"; };
 		54218F941864F046CF9E7AB1 /* Pods_demoFastlaneAndBitriseTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_demoFastlaneAndBitriseTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -60,8 +56,6 @@
 		5CD9D9361D7B25E100669FC5 /* ViewControllerA.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerA.swift; sourceTree = "<group>"; };
 		5CD9D9371D7B25E100669FC5 /* ViewControllerB.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerB.swift; sourceTree = "<group>"; };
 		A428FFD48B3E8AF7E60C992D /* Pods_demoFastlaneAndBitrise.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_demoFastlaneAndBitrise.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		AF5ED01F4A98306A0E253DD2 /* Pods-demoFastlaneAndBitriseTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-demoFastlaneAndBitriseTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-demoFastlaneAndBitriseTests/Pods-demoFastlaneAndBitriseTests.debug.xcconfig"; sourceTree = "<group>"; };
-		B26B2A80E7D3F52F30C7F026 /* Pods-demoFastlaneAndBitriseUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-demoFastlaneAndBitriseUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-demoFastlaneAndBitriseUITests/Pods-demoFastlaneAndBitriseUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		B4FE73EAF84B6B2EBA7E828E /* Pods_demoFastlaneAndBitriseUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_demoFastlaneAndBitriseUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -78,7 +72,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				21FA88B6987E99E0190CEA45 /* Pods_demoFastlaneAndBitriseTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -86,7 +79,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DA3206B74B5728785715DC0B /* Pods_demoFastlaneAndBitriseUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -163,10 +155,6 @@
 			children = (
 				2E4CF4467ACF021BC9C34765 /* Pods-demoFastlaneAndBitrise.debug.xcconfig */,
 				356EFDC660684C8514AF88AA /* Pods-demoFastlaneAndBitrise.release.xcconfig */,
-				AF5ED01F4A98306A0E253DD2 /* Pods-demoFastlaneAndBitriseTests.debug.xcconfig */,
-				0727DB9287CC318DF0B6574B /* Pods-demoFastlaneAndBitriseTests.release.xcconfig */,
-				B26B2A80E7D3F52F30C7F026 /* Pods-demoFastlaneAndBitriseUITests.debug.xcconfig */,
-				1096C1328B309F481F002BFC /* Pods-demoFastlaneAndBitriseUITests.release.xcconfig */,
 			);
 			name = Pods;
 			sourceTree = "<group>";
@@ -198,12 +186,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 5CD9D9301D7B244F00669FC5 /* Build configuration list for PBXNativeTarget "demoFastlaneAndBitriseTests" */;
 			buildPhases = (
-				EBCD4ED11024BDEFD9887496 /* [CP] Check Pods Manifest.lock */,
 				5CD9D9151D7B244F00669FC5 /* Sources */,
 				5CD9D9161D7B244F00669FC5 /* Frameworks */,
 				5CD9D9171D7B244F00669FC5 /* Resources */,
-				C323E65D88CAEF31CF748EB9 /* [CP] Embed Pods Frameworks */,
-				9132C37E76F97C021EA14099 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -219,11 +204,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 5CD9D9331D7B244F00669FC5 /* Build configuration list for PBXNativeTarget "demoFastlaneAndBitriseUITests" */;
 			buildPhases = (
-				5CCB77BB28084102328C9FA4 /* [CP] Check Pods Manifest.lock */,
 				5CD9D9201D7B244F00669FC5 /* Sources */,
 				5CD9D9211D7B244F00669FC5 /* Frameworks */,
 				5CD9D9221D7B244F00669FC5 /* Resources */,
-				06C2C3946F5708D7B5CC4D04 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -306,21 +289,6 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		06C2C3946F5708D7B5CC4D04 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-demoFastlaneAndBitriseUITests/Pods-demoFastlaneAndBitriseUITests-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
 		094308E9C9BEF09F6175CB35 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -334,36 +302,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-demoFastlaneAndBitrise/Pods-demoFastlaneAndBitrise-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		5CCB77BB28084102328C9FA4 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
-			showEnvVarsInLog = 0;
-		};
-		9132C37E76F97C021EA14099 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-demoFastlaneAndBitriseTests/Pods-demoFastlaneAndBitriseTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		A2EFC443938BE33193FA6F00 /* [CP] Check Pods Manifest.lock */ = {
@@ -381,21 +319,6 @@
 			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
 			showEnvVarsInLog = 0;
 		};
-		C323E65D88CAEF31CF748EB9 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-demoFastlaneAndBitriseTests/Pods-demoFastlaneAndBitriseTests-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
 		DEC37E6AF17B24F92C9304E5 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -409,21 +332,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-demoFastlaneAndBitrise/Pods-demoFastlaneAndBitrise-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		EBCD4ED11024BDEFD9887496 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -601,7 +509,6 @@
 		};
 		5CD9D9311D7B244F00669FC5 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = AF5ED01F4A98306A0E253DD2 /* Pods-demoFastlaneAndBitriseTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				INFOPLIST_FILE = demoFastlaneAndBitriseTests/Info.plist;
@@ -614,7 +521,6 @@
 		};
 		5CD9D9321D7B244F00669FC5 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 0727DB9287CC318DF0B6574B /* Pods-demoFastlaneAndBitriseTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				INFOPLIST_FILE = demoFastlaneAndBitriseTests/Info.plist;
@@ -627,7 +533,6 @@
 		};
 		5CD9D9341D7B244F00669FC5 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B26B2A80E7D3F52F30C7F026 /* Pods-demoFastlaneAndBitriseUITests.debug.xcconfig */;
 			buildSettings = {
 				INFOPLIST_FILE = demoFastlaneAndBitriseUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -639,7 +544,6 @@
 		};
 		5CD9D9351D7B244F00669FC5 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1096C1328B309F481F002BFC /* Pods-demoFastlaneAndBitriseUITests.release.xcconfig */;
 			buildSettings = {
 				INFOPLIST_FILE = demoFastlaneAndBitriseUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";

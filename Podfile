@@ -9,14 +9,4 @@ target 'demoFastlaneAndBitrise' do
 
   # Pods for demoFastlaneAndBitrise
 
-  target 'demoFastlaneAndBitriseTests' do
-    inherit! :search_paths
-    # Pods for testing
-  end
-
-  target 'demoFastlaneAndBitriseUITests' do
-    inherit! :search_paths
-    # Pods for testing
-  end
-
 end
