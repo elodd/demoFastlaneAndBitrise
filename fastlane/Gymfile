@@ -8,6 +8,6 @@
 
 scheme "demoFastlaneAndBitrise"
 
-sdk "iphoneos9.0"
+# sdk "iphoneos9.0"
 
 output_directory "./"
