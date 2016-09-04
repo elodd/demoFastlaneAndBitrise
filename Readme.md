@@ -7,6 +7,6 @@
 * Do anything with Script step
 * Certificate and profile installer
 * Fastlane step *
-> Run 'ios beta' in 'Working directory': $FASTLANE_WORK_DIR >
+** Run 'ios beta' in 'Working directory': $FASTLANE_WORK_DIR **
 * Deploy to Bitrise.io *
-> Add $FASTLANE_WORK_DIR with 'Compress the artifacts into one file?' as true >
+** Add $FASTLANE_WORK_DIR with 'Compress the artifacts into one file?' as true ** 
