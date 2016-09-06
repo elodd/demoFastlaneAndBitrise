@@ -11,7 +11,7 @@ scheme "demoFastlaneAndBitriseUITests"
 
 # sdk "iphoneos9.0"
 
-output_directory "./build"
+output_directory "./"
 
 use_legacy_build_api true
 
